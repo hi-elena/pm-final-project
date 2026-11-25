@@ -91,3 +91,4 @@ By putting human expertise at the heart of discovery, Spotlight transforms an ov
 
 ---
 **Builder hook:** Build a working prototype based on this PRD. Use the User Story as the core flow, Functional Requirements as build constraints, and prioritize speed and clarity over visual complexity.
+https://storyflow-prototype-maker.lovable.app/
